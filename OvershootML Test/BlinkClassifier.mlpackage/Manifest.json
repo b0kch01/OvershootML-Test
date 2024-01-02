@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "02C72AA1-E890-4BCD-9085-3584399F27CD": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "BlinkClassifier.mlmodel",
+            "path": "com.apple.CoreML/BlinkClassifier.mlmodel"
+        },
+        "050BB4FF-7C84-4513-A7CC-D406ACBE3CB3": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "40A1CD37-0C47-4D2C-8271-7E38786EA40A": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "02C72AA1-E890-4BCD-9085-3584399F27CD"
+}
