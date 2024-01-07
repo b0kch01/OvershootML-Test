@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E94EEA512B486C1E008C58C3 /* CGRectConvert.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94EEA502B486C1E008C58C3 /* CGRectConvert.swift */; };
 		E97F689E2B2EE36600B2DB0A /* OvershootML_TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97F689D2B2EE36600B2DB0A /* OvershootML_TestApp.swift */; };
 		E97F68A02B2EE36600B2DB0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97F689F2B2EE36600B2DB0A /* ContentView.swift */; };
 		E97F68A22B2EE36700B2DB0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E97F68A12B2EE36700B2DB0A /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E94EEA502B486C1E008C58C3 /* CGRectConvert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGRectConvert.swift; sourceTree = "<group>"; };
 		E97F689A2B2EE36600B2DB0A /* OvershootML Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OvershootML Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E97F689D2B2EE36600B2DB0A /* OvershootML_TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OvershootML_TestApp.swift; sourceTree = "<group>"; };
 		E97F689F2B2EE36600B2DB0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 			children = (
 				E97F68AE2B2EE58500B2DB0A /* UIImage+CVPixelBuffer.swift */,
 				E97F68B02B2EE63900B2DB0A /* CGImage+CVPixelBuffer.swift */,
+				E94EEA502B486C1E008C58C3 /* CGRectConvert.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				E97F68B32B2EF3B100B2DB0A /* FaceFinderLite.mlpackage in Sources */,
 				E97F68AF2B2EE58500B2DB0A /* UIImage+CVPixelBuffer.swift in Sources */,
 				E9F12F472B43E8A2006AFFFA /* DeepLabV3 model.mlpackage in Sources */,
+				E94EEA512B486C1E008C58C3 /* CGRectConvert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

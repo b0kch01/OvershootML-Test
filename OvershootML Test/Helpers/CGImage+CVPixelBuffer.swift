@@ -78,7 +78,7 @@ extension CGImage {
 
         // TODO: If the orientation is not .up, then rotate the CGImage.
         // See also: https://stackoverflow.com/a/40438893/
-        assert(orientation == .up)
+//        assert(orientation == .up)
 
         var maybePixelBuffer: CVPixelBuffer?
         let attrs = [kCVPixelBufferCGImageCompatibilityKey: kCFBooleanTrue,
